@@ -41,8 +41,8 @@ An intelligent, voice-activated assistant built with Python! Speak to your assis
 1. Clone this repo or download the script:
 
    ```bash
-   git clone https://github.com/your-username/voice-ai-assistant
-   cd voice-ai-assistant
+   git clone https://github.com/ashdyl17/ai_voice_assistant
+   cd ai_voice_assistant
    ```
 
 2. Install dependencies:
